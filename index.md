@@ -1,4 +1,4 @@
-# Kolton Rudd's programming portfolio
+# Kolton Rudd's Programming Portfolio
 
 ### Processing Projects
 
