@@ -18,7 +18,7 @@ Final Processing project for interactive converter. Source file [here](https://g
 ![Converter](https://github.com/Kolton11/programmingPortfolio2021A1/blob/gh-pages/images/Temp%20Converter.png)
 
 #### Zoog
-Final Processing project for interactive Zoog. Source file [here](https://github.com/Kolton11/programmingPortfolio2021A1/tree/gh-pages/src/Zoog). 
+Final Processing project for Zoog. Source file [here](https://github.com/Kolton11/programmingPortfolio2021A1/tree/gh-pages/src/Zoog). 
 Executable file for [Windows64](https://github.com/Kolton11/programmingPortfolio2021A1/blob/gh-pages/src/Zoog/application.windows64.zip)
 
 ![Zoog](https://github.com/Kolton11/programmingPortfolio2021A1/blob/gh-pages/images/Zoog.png)
