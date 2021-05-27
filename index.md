@@ -30,7 +30,10 @@ Executable file for [Windows64](https://github.com/Kolton11/programmingPortfolio
 ![Shapes](https://github.com/Kolton11/programmingPortfolio2021A1/blob/gh-pages/images/Shapes.png)
 
 #### Pong_game
-Final Project for the year. Source code [here](https://github.com/Kolton11/Final-Project/tree/gh-pages/src/Real_Pong).
+FINAL PROJECT FOR THE YEAR. 
+
+Source code [here](https://github.com/Kolton11/Final-Project/tree/gh-pages/src/Real_Pong).
+
 Executable file for [Windows64](https://github.com/Kolton11/Final-Project/blob/gh-pages/application.windows64.zip)
 
 Executable file for [MacOSX](https://github.com/Kolton11/Final-Project/blob/gh-pages/application.macosx.zip).
